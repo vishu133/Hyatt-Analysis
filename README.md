@@ -1,2 +1,2 @@
 # Hyatt-Analysis
-This program was a project for the course Introduction to Data Science. It is data analysis on Hyatt hotels
+This repository contains a R program and and presentation. This project is a statistical analysis on Hyatt Group of Hotels using R programming. Performed Data Cleaning, Exploration, Data Mining and Statistical Modelling in R studio to calculate the Net Promoter Score. Through statistical analysis we tried answering questions such as which Hyatt brands not performing well, the demographics of Hyatt customers and which amenities and facilities most strongly influence net promoter score for customers in California.
